@@ -1,0 +1,21 @@
+name = input("please enter your name: ")
+surname = input("please enter your surname: ")
+age = input("please enter your age: ")
+number1 = input("please enter a number: ")
+number2 = input("please enter a number: ")
+
+print(name)
+print(surname)
+print(age)
+print(number1)
+print(number2)
+
+num1 = input("please enter a number: ")
+num2 = input("please enter a number: ")
+print(int(num1) + int(num2))
+
+print(type(name))
+print(type(surname))
+print(type(age))
+print(type(number1))
+print(type(number2))
